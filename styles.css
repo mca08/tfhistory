@@ -1,6 +1,7 @@
 p{
     border: 5px solid red;
     color:white;
+    float: right;
 }
 section{
     background-color:darkred;
