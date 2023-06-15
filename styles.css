@@ -1,40 +1,39 @@
 p{
-    border: 5px solid red;
-    color:white;
-    float: left;
+  border: 5px solid red;
+  color:white;
 }
 section{
-    background-color:darkred;
-    color:white;
+  background-color:darkred;
+  color:white;
 }
 article{
-    background-color:maroon;
-    color:white;
+  background-color:maroon;
+  color:white;
 }
 div{
-    background-color:darkred;
-    color:white;
+  background-color:darkred;
+  color:white;
 }
 a:link {
-    color: white;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: white;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: white;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: white;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
